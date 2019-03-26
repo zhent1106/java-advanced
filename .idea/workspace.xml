@@ -7,12 +7,22 @@
       <change afterPath="$PROJECT_DIR$/collection-study/src/com.soft1841/map/HasMapTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/collection-study/src/com.soft1841/set/SetTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/collection-study/src/com.soft1841/set/TreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collection-study/src/com.soft1841/study/FlowLayoutPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collection-study/src/com.soft1841/study/FlowLayoutPositionTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/collection-study/src/com.soft1841/study/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/collection-study/src/com.soft1841/study/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/io-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com.soft1841.io/GridLayoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com.soft1841.io/ImageFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com.soft1841.io/file/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com.soft1841.io/file/FileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com.soft1841.io/file/FileDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com.soft1841.io/file/FileDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com.soft1841.io/file/TXTCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io-study/src/com.soft1841.io/file/TxtCopyStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collection-study/src/com.soft1841/list/Vegetble.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection-study/src/com.soft1841/list/Vegetble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection-study/src/com.soft1841/study/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection-study/src/com.soft1841/study/CalendarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection-study/src/com.soft1841/study/FlowLayoutPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection-study/src/com.soft1841/study/FlowLayoutPosition.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,42 +48,42 @@
     <session id="-612361896">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="3" />
+          <entry key="project.open.time.20" value="4" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="42" />
+          <entry key="java" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="42" />
+          <entry key="JAVA" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6315" />
-          <entry key="txt" value="59" />
+          <entry key="java" value="9427" />
+          <entry key="txt" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6315" />
-          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="JAVA" value="9427" />
+          <entry key="PLAIN_TEXT" value="83" />
         </counts>
       </usages-collector>
     </session>
@@ -81,27 +91,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/collection-study/src/com.soft1841/study/FlowLayoutPositionTest.java">
+        <entry file="file://$PROJECT_DIR$/io-study/src/com.soft1841.io/GridLayoutTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#909#910#0" expanded="true" />
-                <element signature="e#953#954#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/collection-study/src/com.soft1841/study/FlowLayoutPosition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="420">
+              <caret line="98" column="41" selection-start-line="98" selection-start-column="41" selection-end-line="98" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -138,11 +131,23 @@
         <option value="$PROJECT_DIR$/collection-study/src/com.soft1841/set/SetTest.java" />
         <option value="$PROJECT_DIR$/collection-study/src/com.soft1841/list/Vegetble.java" />
         <option value="$PROJECT_DIR$/collection-study/src/com.soft1841/study/EnumSetTest.java" />
-        <option value="$PROJECT_DIR$/collection-study/src/com.soft1841/study/CalendarTest.java" />
         <option value="$PROJECT_DIR$/collection-study/src/com.soft1841/map/HasMapTest.java" />
         <option value="$PROJECT_DIR$/collection-study/src/com.soft1841/set/TreeSet.java" />
-        <option value="$PROJECT_DIR$/collection-study/src/com.soft1841/study/FlowLayoutPosition.java" />
         <option value="$PROJECT_DIR$/collection-study/src/com.soft1841/study/FlowLayoutPositionTest.java" />
+        <option value="$PROJECT_DIR$/collection-study/src/com.soft1841/study/FlowLayoutPosition.java" />
+        <option value="$PROJECT_DIR$/collection-study/src/com.soft1841/study/CalendarTest.java" />
+        <option value="$PROJECT_DIR$/io-study/src/com/soft1841/io/FileDemo1.java" />
+        <option value="$PROJECT_DIR$/io-study/src/com.soft1841.io/FileDemo1.java" />
+        <option value="$PROJECT_DIR$/io-study/src/com.soft1841.io/FileDemo2.java" />
+        <option value="$PROJECT_DIR$/io-study/src/com.soft1841.io/FileDemo3.java" />
+        <option value="$PROJECT_DIR$/io-study/src/com.soft1841.io/borderlayout/BorderLayoutPosition.java" />
+        <option value="$PROJECT_DIR$/io-study/src/com.soft1841.io/borderlayout/BorderLayoutTest.java" />
+        <option value="$PROJECT_DIR$/io-study/src/com.soft1841.io/file/FileDemo2.java" />
+        <option value="$PROJECT_DIR$/io-study/src/com.soft1841.io/file/FileCopy.java" />
+        <option value="$PROJECT_DIR$/io-study/src/com.soft1841.io/file/TXTCopy.java" />
+        <option value="$PROJECT_DIR$/io-study/src/com.soft1841.io/file/TxtCopyStudy.java" />
+        <option value="$PROJECT_DIR$/io-study/src/com.soft1841.io/ImageFrame.java" />
+        <option value="$PROJECT_DIR$/io-study/src/com.soft1841.io/GridLayoutTest.java" />
       </list>
     </option>
   </component>
@@ -162,9 +167,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="920" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="-10" />
+    <option name="y" value="6" />
+    <option name="width" value="1128" />
+    <option name="height" value="1014" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -174,52 +180,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="collection-study" type="462c0819:PsiDirectoryNode" />
+              <item name="io-study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="collection-study" type="462c0819:PsiDirectoryNode" />
+              <item name="io-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="collection-study" type="462c0819:PsiDirectoryNode" />
+              <item name="io-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com.soft1841" type="462c0819:PsiDirectoryNode" />
+              <item name="com.soft1841.io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="collection-study" type="462c0819:PsiDirectoryNode" />
+              <item name="io-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com.soft1841" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com.soft1841.io" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553467210409" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553638448051" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -231,6 +228,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaStudy\java-advanced\io-study\src\com.soft1841.io" />
+      <recent name="E:\JavaStudy\java-advanced\io-study\src\com.soft1841.io\borderlayout" />
       <recent name="E:\JavaStudy\java-advanced\collection-study\src\com.soft1841\study" />
     </key>
   </component>
@@ -246,13 +245,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FlowLayoutPositionTest">
-    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.study.CalendarTest" />
-      <module name="collection-study" />
+  <component name="RunManager" selected="Application.GridLayoutTest">
+    <configuration name="FileCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.io.file.FileCopy" />
+      <module name="io-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.study.*" />
+          <option name="PATTERN" value="com.soft1841.io.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.study.EnumSetTest" />
-      <module name="collection-study" />
+    <configuration name="GridLayoutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.io.GridLayoutTest" />
+      <module name="io-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.study.*" />
+          <option name="PATTERN" value="com.soft1841.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,12 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowLayoutPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.study.FlowLayoutPosition" />
-      <module name="collection-study" />
+    <configuration name="ImageFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.io.ImageFrame" />
+      <module name="io-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.study.*" />
+          <option name="PATTERN" value="com.soft1841.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowLayoutPositionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.study.FlowLayoutPositionTest" />
-      <module name="collection-study" />
+    <configuration name="TXTCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.io.file.TXTCopy" />
+      <module name="io-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.study.*" />
+          <option name="PATTERN" value="com.soft1841.io.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +298,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.set.TreeSet" />
-      <module name="collection-study" />
+    <configuration name="TxtCopyStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.io.file.TxtCopyStudy" />
+      <module name="io-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.set.*" />
+          <option name="PATTERN" value="com.soft1841.io.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,19 +312,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EnumSetTest" />
-      <item itemvalue="Application.CalendarTest" />
-      <item itemvalue="Application.TreeSet" />
-      <item itemvalue="Application.FlowLayoutPosition" />
-      <item itemvalue="Application.FlowLayoutPositionTest" />
+      <item itemvalue="Application.FileCopy" />
+      <item itemvalue="Application.TXTCopy" />
+      <item itemvalue="Application.TxtCopyStudy" />
+      <item itemvalue="Application.ImageFrame" />
+      <item itemvalue="Application.GridLayoutTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FlowLayoutPositionTest" />
-        <item itemvalue="Application.FlowLayoutPosition" />
-        <item itemvalue="Application.TreeSet" />
-        <item itemvalue="Application.CalendarTest" />
-        <item itemvalue="Application.EnumSetTest" />
+        <item itemvalue="Application.GridLayoutTest" />
+        <item itemvalue="Application.ImageFrame" />
+        <item itemvalue="Application.TxtCopyStudy" />
+        <item itemvalue="Application.TXTCopy" />
+        <item itemvalue="Application.FileCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +349,10 @@
       <workItem from="1553120976108" duration="3536000" />
       <workItem from="1553207426827" duration="399000" />
       <workItem from="1553253570712" duration="2681000" />
-      <workItem from="1553466133378" duration="1203000" />
+      <workItem from="1553466133378" duration="12074000" />
+      <workItem from="1553552905969" duration="929000" />
+      <workItem from="1553557345902" duration="11780000" />
+      <workItem from="1553637782614" duration="589000" />
     </task>
     <task id="LOCAL-00001" summary="study integer">
       <created>1552355273851</created>
@@ -394,17 +396,31 @@
       <option name="project" value="LOCAL" />
       <updated>1553121893471</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="流布局管理器">
+      <created>1553467392117</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553467392117</updated>
+    </task>
+    <task id="LOCAL-00008" summary="边界布局管理器">
+      <created>1553553152980</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553553152981</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45306000" />
+    <option name="totallyTimeSpent" value="69475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15549597" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11461126" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -413,8 +429,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5712188" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32554945" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39941263" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -434,7 +450,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14879356" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -443,8 +459,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39500734" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39941263" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -458,9 +474,9 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout-to-restore>
   </component>
@@ -477,7 +493,9 @@
     <MESSAGE value="comparable接口使用" />
     <MESSAGE value="综合测试" />
     <MESSAGE value="枚举类型的练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="枚举类型的练习" />
+    <MESSAGE value="流布局管理器" />
+    <MESSAGE value="边界布局管理器" />
+    <option name="LAST_COMMIT_MESSAGE" value="边界布局管理器" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/util/src/com/java/util/hello.java" />
@@ -544,23 +562,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collection-study/src/com.soft1841/set/SetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection-study/src/com.soft1841/study/CalendarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/collection-study/src/com.soft1841/map/HasMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -568,46 +569,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collection-study/src/com.soft1841/set/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3872.25954/PoetrySubject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/FlowLayoutposition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3872.25954/PoetrySubject.java" />
+    <entry file="file://$USER_HOME$/Desktop/FlowLayoutposition.java" />
     <entry file="file://$PROJECT_DIR$/collection-study/src/com.soft1841/study/FlowLayoutPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/collection-study/src/com.soft1841/study/FlowLayoutPositionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="390">
+          <caret line="13" column="57" lean-forward="true" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection-study/src/com.soft1841/set/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection-study/src/com.soft1841/set/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io-study/src/com/soft1841/io/FileDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/collection-study/src/com.soft1841/study/CalendarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io-study/src/com.soft1841.io/borderlayout/BorderLayoutPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io-study/src/com.soft1841.io/borderlayout/BorderLayoutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io-study/src/com.soft1841.io/file/FileDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io-study/src/com.soft1841.io/file/FileCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io-study/src/com.soft1841.io/file/TXTCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io-study/src/com.soft1841.io/file/FileDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" column="79" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="23" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io-study/src/com.soft1841.io/file/FileDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io-study/src/com.soft1841.io/file/TxtCopyStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
-            <element signature="e#953#954#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io-study/src/com.soft1841.io/ImageFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io-study/src/com.soft1841.io/GridLayoutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="98" column="41" selection-start-line="98" selection-start-column="41" selection-end-line="98" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -663,7 +735,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>collection-study</last-edited>
+          <last-edited>io-study</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
