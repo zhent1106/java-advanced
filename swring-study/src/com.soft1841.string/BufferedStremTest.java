@@ -1,4 +1,4 @@
-package com.soft1841.io;
+package com.soft1841.string;
 import java.io.*;
 /**
  * Created by 田震 on 2019/4/3 00:29
