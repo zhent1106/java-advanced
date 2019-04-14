@@ -1,7 +1,7 @@
 package com.soft1841.thread.TICKET;
 
 /**售票线程2
- * 实现runnable类接口的方法实现    缺陷：数据可以共享，线程部同步
+ * 实现runnable类接口的方法实现    缺陷：数据可以共享，线程不同步
  * Created by 田震 on 2019/4/9 8:21
  */
 public class TicketThreadTest2 {

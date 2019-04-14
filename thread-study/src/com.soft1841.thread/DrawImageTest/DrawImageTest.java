@@ -12,7 +12,8 @@ public class DrawImageTest extends JFrame {
         add(new CanvasTest());
         this.setTitle("绘制图像");
     }
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         new DrawImageTest().setVisible(true);
     }
     class CanvasTest extends Canvas {
