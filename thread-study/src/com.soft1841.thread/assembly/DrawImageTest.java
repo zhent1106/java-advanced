@@ -1,4 +1,4 @@
-package com.soft1841.thread.DrawImageTest;
+package com.soft1841.thread.assembly;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,10 +1,7 @@
-package com.soft1841.thread.Timer;
+package com.soft1841.thread.daojishi;
 
-import jdk.internal.org.objectweb.asm.TypeReference;
+public class JoinThread extends Thread {
 
-import javax.swing.plaf.TableHeaderUI;
-
-public class JoinDemo extends Thread {
     @Override
     public void run() {
         for (int i = 10;i>0;i--){
@@ -16,7 +13,6 @@ public class JoinDemo extends Thread {
             }
         }
     }
-
     public static void main(String[] args) {
         System.out.println("开始倒数");
         try {
@@ -24,8 +20,8 @@ public class JoinDemo extends Thread {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        JoinDemo joinDemo  = new JoinDemo();
-        Thread thread = new Thread(joinDemo);
+        JoinThread jointhread  = new JoinThread();
+        Thread thread = new Thread(jointhread);
         thread.start();
         try {
             thread.join();

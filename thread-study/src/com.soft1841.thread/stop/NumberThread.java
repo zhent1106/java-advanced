@@ -1,6 +1,4 @@
-package com.soft1841.thread.Stop;
-
-import sun.misc.JavaLangAccess;
+package com.soft1841.thread.stop;
 
 import javax.swing.*;
 

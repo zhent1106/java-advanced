@@ -5,6 +5,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 /**
+ * 爬取网络上面的某些文字
  * Created by 田震 on 2019/4/18 00:11
  */
 public class JsoupDemo {

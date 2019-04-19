@@ -1,4 +1,4 @@
-package com.soft1841.thread.Stop;
+package com.soft1841.thread.stop;
 
 import javax.swing.*;
 import java.awt.*;
